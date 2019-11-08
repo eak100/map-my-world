@@ -128,7 +128,6 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/eak100/workspace/catkin_ws/build/gtest/cmake_install.cmake")
   include("/home/eak100/workspace/catkin_ws/build/my_robot/cmake_install.cmake")
   include("/home/eak100/workspace/catkin_ws/build/teleop_twist_keyboard/cmake_install.cmake")
-  include("/home/eak100/workspace/catkin_ws/build/ball_chaser/cmake_install.cmake")
 
 endif()
 
